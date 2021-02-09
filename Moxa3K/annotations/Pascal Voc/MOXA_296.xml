@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>MOXA_296.jpg</filename>
+	<path>../../dataset/moxa3K/train//MOXA_296.jpg</path>
+	<source>
+		<database>Moxa3k</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>839</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>1</ymin>
+			<xmax>393</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

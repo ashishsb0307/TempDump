@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>MOXA_2080.jpg</filename>
+	<path>../../dataset/moxa3K/train//MOXA_2080.jpg</path>
+	<source>
+		<database>Moxa3k</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>276</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nomask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>34</ymin>
+			<xmax>163</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>
